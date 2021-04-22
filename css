@@ -1,0 +1,47 @@
+body { background-image:url('https://htmllessons.ru/uploads/posts/img_B6D0gsN15q.png');
+
+}
+
+h1 {    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: COMIC SANS MS;
+}
+
+a.boton1{
+  background:#eee;
+  color:#088;
+  text-decoration:none;
+  display:block;
+  width:90px;
+  text-align:center;
+  margin:20px auto;
+  padding:10px 10px;
+  transition:all 0.3s;
+  }
+ a.boton1:hover{
+  box-shadow:0px -5px 0 #088 inset;
+}
+
+a.boton2{
+  background:#eee;
+  color:#088;
+  text-decoration:none;
+  display:block;
+  width:90px;
+  text-align:center;
+  margin:20px auto;
+  padding:10px 10px;
+  transition:all 0.3s;
+  }
+ a.boton2:hover{
+  box-shadow:0px -5px 0 #088 inset;
+}
+
+
+img {
+    border: 3px solid #fff ;
+}
